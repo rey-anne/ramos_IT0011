@@ -1,0 +1,30 @@
+[
+    {
+        "first_name": "Reyanne",
+        "middle_name": "Serion",
+        "last_name": "Ramos",
+        "birthday": "2004-09-06",
+        "gender": "Female"
+    },
+    {
+        "first_name": "Andrew",
+        "middle_name": "P",
+        "last_name": "Lucas",
+        "birthday": "2004-11-11",
+        "gender": "Male"
+    },
+    {
+        "first_name": "Cloud",
+        "middle_name": "Reyes",
+        "last_name": "Montiano",
+        "birthday": "2004-01-02",
+        "gender": "Male"
+    },
+    {
+        "first_name": "Aaliyah",
+        "middle_name": "B",
+        "last_name": "Ramos",
+        "birthday": "2004-10-27",
+        "gender": "Female"
+    }
+]

@@ -1,0 +1,21 @@
+Project Documentation:
+
+Project Name: My Program
+
+Description:
+This program is a GUI-based application for managing personal records. It allows users to sign up, view all records, search for a specific record, and exit the application. Data persistence is achieved using a JSON file.
+
+Features:
+- Sign-up form for creating new records.
+- View all existing records.
+- Search for a specific record by first or last name.
+- Exception handling for input validation and file operations.
+- Data persistence using a JSON file.
+
+Data Storage:
+- Data is stored in a JSON file named "data.json".
+
+How to Run:
+1. Ensure you have Python and tkinter installed.
+2. Create a file named "data.json" in the same directory as "main.py".
+3. Run "main.py" using a Python interpreter (e.g., in VS Code terminal).
